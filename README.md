@@ -54,7 +54,4 @@ Every possible source and destination is mapped with a number ranging from (1 to
 
 
 
-## Authors
-
-- [@siddharthKashyap](https://github.com/dis-28)
 
